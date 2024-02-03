@@ -17,4 +17,4 @@
 Minha carreira é constituída em dar meu melhor e reconhecer minhas fraquezas para progredir continuamente. Sempre com o propósito de crescimento mutuo e educação!
 
 ## E-mail: 
-- [wsoliveira95@gmail.com](wsoliveira95@gmail.com)
+- wsoliveira95@gmail.com
