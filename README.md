@@ -4,6 +4,8 @@
 
 ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonOliveira95&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonOliveira95)](https://github.com/WellingtonOliveira95/github-readme-stats)
+
 ## Tecnologias que estudo nos meus dias:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
