@@ -4,8 +4,7 @@
 
 ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonOliveira95&show_icons=true&theme=onedark)
 
-## Tecnologias que estudo nos meus dias
-
+## Tecnologias que estudo nos meus dias:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
